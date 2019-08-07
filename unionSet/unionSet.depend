@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1565191971 source:c:\users\20171011110007\documents\cplusplus\cplusplus\unionset\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"unionSet.h"
+
+1565192021 c:\users\20171011110007\documents\cplusplus\cplusplus\unionset\unionset.h
+	<iostream>
+	<vector>
+	<algorithm>
+
